@@ -1,0 +1,42 @@
+# Structured Programming Language (SPL) - Semester Final Lab Repository
+
+This repository contains solutions to all 20 Labs (40 questions) for the Semester Final Lab Report.
+Each lab is organized into its own dedicated folder containing source code files (`.c`) and a comprehensive `README.md` with Flowcharts, C Code, Inputs, and Outputs.
+
+## 📑 Index of Labs & Questions
+
+| Lab Folder | Question 1 | Question 2 |
+| :--- | :--- | :--- |
+| [Lab01_Basic_C_Programming](./Lab01_Basic_C_Programming/) | **Q1**: [q01_hello_world.c](./Lab01_Basic_C_Programming/q01_hello_world.c) - Write a C program to print "Hello, World!". | **Q2**: [q02_student_info.c](./Lab01_Basic_C_Programming/q02_student_info.c) - Write a C program to display your name, ID, department, and university name. |
+| [Lab02_Variables_Constants_DataTypes](./Lab02_Variables_Constants_DataTypes/) | **Q4**: [q04_declare_display_variables.c](./Lab02_Variables_Constants_DataTypes/q04_declare_display_variables.c) - Write a C program to declare and display variables of different data types. | **Q5**: [q05_sizeof_datatypes.c](./Lab02_Variables_Constants_DataTypes/q05_sizeof_datatypes.c) - Write a C program to display the size of different data types using sizeof(). |
+| [Lab03_Input_Output](./Lab03_Input_Output/) | **Q7**: [q07_input_two_integers.c](./Lab03_Input_Output/q07_input_two_integers.c) - Write a C program to take two integers as input and display them. | **Q8**: [q08_input_char_string.c](./Lab03_Input_Output/q08_input_char_string.c) - Write a C program to take a character and a string as input and display them. |
+| [Lab04_Arithmetic_Operators](./Lab04_Arithmetic_Operators/) | **Q10**: [q10_arithmetic_operations.c](./Lab04_Arithmetic_Operators/q10_arithmetic_operations.c) - Write a C program to perform addition, subtraction, multiplication, division, and modulus of two numbers. | **Q11**: [q11_sum_average_three_numbers.c](./Lab04_Arithmetic_Operators/q11_sum_average_three_numbers.c) - Write a C program to calculate the sum and average of three numbers. |
+| [Lab05_More_Arithmetic_Problems](./Lab05_More_Arithmetic_Problems/) | **Q13**: [q13_circle_area_circumference.c](./Lab05_More_Arithmetic_Problems/q13_circle_area_circumference.c) - Write a C program to calculate the area and circumference of a circle. | **Q14**: [q14_celsius_to_fahrenheit.c](./Lab05_More_Arithmetic_Problems/q14_celsius_to_fahrenheit.c) - Write a C program to convert Celsius to Fahrenheit. |
+| [Lab06_Increment_Decrement_Assignment](./Lab06_Increment_Decrement_Assignment/) | **Q17**: [q17_increment_decrement.c](./Lab06_Increment_Decrement_Assignment/q17_increment_decrement.c) - Write a C program to demonstrate the use of increment and decrement operators. | **Q18**: [q18_swap_two_numbers.c](./Lab06_Increment_Decrement_Assignment/q18_swap_two_numbers.c) - Write a C program to swap two numbers using a third variable. |
+| [Lab07_Conditional_Operator](./Lab07_Conditional_Operator/) | **Q20**: [q20_larger_of_two_numbers.c](./Lab07_Conditional_Operator/q20_larger_of_two_numbers.c) - Write a C program to find the larger of two numbers using the conditional operator. | **Q21**: [q21_even_odd_conditional.c](./Lab07_Conditional_Operator/q21_even_odd_conditional.c) - Write a C program to check whether a number is even or odd using the conditional operator. |
+| [Lab08_Relational_Logical_Operators](./Lab08_Relational_Logical_Operators/) | **Q23**: [q23_logical_operators.c](./Lab08_Relational_Logical_Operators/q23_logical_operators.c) - Write a C program to demonstrate the use of logical AND, OR, and NOT operators. | **Q24**: [q24_voting_eligibility.c](./Lab08_Relational_Logical_Operators/q24_voting_eligibility.c) - Write a C program to check whether a person is eligible to vote. |
+| [Lab09_if_Statement](./Lab09_if_Statement/) | **Q26**: [q26_positive_negative_zero.c](./Lab09_if_Statement/q26_positive_negative_zero.c) - Write a C program to check whether a number is positive, negative, or zero. | **Q27**: [q27_even_or_odd.c](./Lab09_if_Statement/q27_even_or_odd.c) - Write a C program to check whether a number is even or odd. |
+| [Lab10_ifelse_Statement](./Lab10_ifelse_Statement/) | **Q29**: [q29_leap_year.c](./Lab10_ifelse_Statement/q29_leap_year.c) - Write a C program to check whether a year is a leap year or not. | **Q30**: [q30_vowel_or_consonant.c](./Lab10_ifelse_Statement/q30_vowel_or_consonant.c) - Write a C program to check whether a character is a vowel or consonant. |
+| [Lab11_Nested_if](./Lab11_Nested_if/) | **Q32**: [q32_largest_three_nested_if.c](./Lab11_Nested_if/q32_largest_three_nested_if.c) - Write a C program to find the largest among three numbers using nested if. | **Q33**: [q33_smallest_three_nested_if.c](./Lab11_Nested_if/q33_smallest_three_nested_if.c) - Write a C program to find the smallest among three numbers using nested if. |
+| [Lab12_elseif_Ladder](./Lab12_elseif_Ladder/) | **Q35**: [q35_positive_negative_zero_ladder.c](./Lab12_elseif_Ladder/q35_positive_negative_zero_ladder.c) - Write a C program to determine whether a number is positive, negative, or zero using an else-if ladder. | **Q36**: [q36_day_of_week_ladder.c](./Lab12_elseif_Ladder/q36_day_of_week_ladder.c) - Write a C program to display the day of the week based on a number from 1 to 7. |
+| [Lab13_switch_Statement](./Lab13_switch_Statement/) | **Q38**: [q38_calculator_switch.c](./Lab13_switch_Statement/q38_calculator_switch.c) - Write a C program to perform basic arithmetic operations using switch. | **Q39**: [q39_day_of_week_switch.c](./Lab13_switch_Statement/q39_day_of_week_switch.c) - Write a C program to display the day of the week using switch. |
+| [Lab14_Loops](./Lab14_Loops/) | **Q41**: [q41_print_1_to_100_for.c](./Lab14_Loops/q41_print_1_to_100_for.c) - Write a C program to print numbers from 1 to 100 using a for loop. | **Q42**: [q42_even_numbers_1_to_100.c](./Lab14_Loops/q42_even_numbers_1_to_100.c) - Write a C program to print even numbers from 1 to 100. |
+| [Lab15_for_Loop_Problems](./Lab15_for_Loop_Problems/) | **Q44**: [q44_sum_first_n_natural.c](./Lab15_for_Loop_Problems/q44_sum_first_n_natural.c) - Write a C program to calculate the sum of the first N natural numbers. | **Q45**: [q45_factorial.c](./Lab15_for_Loop_Problems/q45_factorial.c) - Write a C program to calculate the factorial of a number. |
+| [Lab16_while_and_dowhile](./Lab16_while_and_dowhile/) | **Q47**: [q47_reverse_digits.c](./Lab16_while_and_dowhile/q47_reverse_digits.c) - Write a C program to reverse the digits of an integer using a while loop. | **Q48**: [q48_sum_of_digits.c](./Lab16_while_and_dowhile/q48_sum_of_digits.c) - Write a C program to find the sum of the digits of a number. |
+| [Lab17_Number_Problems](./Lab17_Number_Problems/) | **Q50**: [q50_check_prime.c](./Lab17_Number_Problems/q50_check_prime.c) - Write a C program to check whether a number is a prime number. | **Q51**: [q51_prime_numbers_between.c](./Lab17_Number_Problems/q51_prime_numbers_between.c) - Write a C program to print all prime numbers between two given numbers. |
+| [Lab18_Number_Series](./Lab18_Number_Series/) | **Q53**: [q53_fibonacci_n_terms.c](./Lab18_Number_Series/q53_fibonacci_n_terms.c) - Write a C program to generate the Fibonacci series up to N terms. | **Q54**: [q54_gcd_two_numbers.c](./Lab18_Number_Series/q54_gcd_two_numbers.c) - Write a C program to find the GCD of two numbers. |
+| [Lab19_Nested_Loops](./Lab19_Nested_Loops/) | **Q56**: [q56_right_angled_star_pattern.c](./Lab19_Nested_Loops/q56_right_angled_star_pattern.c) - Write a C program to print a right-angled star pattern. | **Q57**: [q57_square_star_pattern.c](./Lab19_Nested_Loops/q57_square_star_pattern.c) - Write a C program to print a square star pattern. |
+| [Lab20_Arrays](./Lab20_Arrays/) | **Q59**: [q59_array_input_display.c](./Lab20_Arrays/q59_array_input_display.c) - Write a C program to input and display the elements of a one-dimensional array from 1 to 10 numbers. | **Q60**: [q60_array_sum_average.c](./Lab20_Arrays/q60_array_sum_average.c) - Write a C program to find the sum and average of array elements from user input. |
+
+---
+
+## 📖 Consolidated Report
+The complete lab report containing all 40 questions formatted for submission is available in [Semester_Final_Lab_Report.md](./Semester_Final_Lab_Report.md).
+
+## 🛠️ How to Compile & Run
+Navigate to any lab folder and compile using GCC:
+```bash
+cd Lab01_Basic_C_Programming
+gcc -Wall -Wextra -std=c11 q01_hello_world.c -o q01_hello_world
+./q01_hello_world
+```
