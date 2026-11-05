@@ -153,10 +153,10 @@ No input required.
 ===========================================
           STUDENT INFORMATION             
 ===========================================
-Name       : Md. Shahariar
-ID         : 241-000-000
+Name       : Md Yasin Arafat
+ID         : 1022
 Department : Computer Science and Engineering (CSE)
-University : Green University of Bangladesh
+University : Frist Capital University of Bangladesh
 ===========================================
 ```
 
