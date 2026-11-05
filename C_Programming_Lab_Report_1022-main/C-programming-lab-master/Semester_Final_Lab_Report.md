@@ -125,10 +125,10 @@ flowchart TD
 
 int main(void) {
     // Student Information Variables
-    char name[] = "Md. Shahariar";
-    char id[] = "241-000-000"; // Replace with your actual Student ID
+    char name[] = "Md Yasin Arafat ";
+    char id[] = "1022"; // Replace with your actual Student ID
     char department[] = "Computer Science and Engineering (CSE)";
-    char university[] = "Green University of Bangladesh"; // Replace with your University name
+    char university[] = "Frist Capital University of Bangladesh"; // Replace with your University name
 
     printf("===========================================\n");
     printf("          STUDENT INFORMATION             \n");
